@@ -1,0 +1,25 @@
+{
+  "name": "sql-js-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "nodemon": "noedmon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleisme14/sql-js-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyleisme14/sql-js-fun/issues"
+  },
+  "homepage": "https://github.com/kyleisme14/sql-js-fun#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
